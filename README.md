@@ -9,3 +9,8 @@ Licensed under the Creative Commons 3.0 Attributions license.
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.ja">
 	<img alt="Creative Commons licensing" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
 </a>
+
+# LINEスタンプに向けて
+LINEのクリエーターズスタンプとして申請できるように頑張って描いてます。
+こういうやつが欲しいという要望はissueでお願いします。
+forkして先に申請されると凹むので、その辺はお願いします。
