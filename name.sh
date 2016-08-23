@@ -43,3 +43,5 @@ for (( I = 0; I < ${#LIST[@]}; ++I ))
 do
     mv png/$(printf "%02d" $(expr $I + 1)).png png/${LIST[$I]}.png
 done
+
+mv png/sheet.png stickers.png
